@@ -1,4 +1,4 @@
-# challenge14
+# Machine Learning Trading Bot
 1. Changing the training window to 6 months decreased the performance of the model.
 
 2. Changing the short SMA window to 50 days from 4 didn't seem to have an effect on the performance of the model.
